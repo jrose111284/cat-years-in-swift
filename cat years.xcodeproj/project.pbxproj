@@ -14,6 +14,7 @@
 		484E90D01C444C1D003AF682 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 484E90CE1C444C1D003AF682 /* LaunchScreen.storyboard */; };
 		484E90DB1C444C1D003AF682 /* cat_yearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 484E90DA1C444C1D003AF682 /* cat_yearsTests.swift */; };
 		484E90E61C444C1D003AF682 /* cat_yearsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 484E90E51C444C1D003AF682 /* cat_yearsUITests.swift */; };
+		484E90F41C444DA6003AF682 /* cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 484E90F31C444DA6003AF682 /* cat.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		484E90E11C444C1D003AF682 /* cat yearsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "cat yearsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		484E90E51C444C1D003AF682 /* cat_yearsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cat_yearsUITests.swift; sourceTree = "<group>"; };
 		484E90E71C444C1D003AF682 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		484E90F31C444DA6003AF682 /* cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cat.jpg; path = ../../../Desktop/cat.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				484E90CC1C444C1D003AF682 /* Assets.xcassets */,
 				484E90CE1C444C1D003AF682 /* LaunchScreen.storyboard */,
 				484E90D11C444C1D003AF682 /* Info.plist */,
+				484E90F31C444DA6003AF682 /* cat.jpg */,
 			);
 			path = "cat years";
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 			files = (
 				484E90D01C444C1D003AF682 /* LaunchScreen.storyboard in Resources */,
 				484E90CD1C444C1D003AF682 /* Assets.xcassets in Resources */,
+				484E90F41C444DA6003AF682 /* cat.jpg in Resources */,
 				484E90CB1C444C1D003AF682 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
